@@ -21,11 +21,26 @@ Embed video demo di bawah ini :
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
 ### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+| Library                   | Keterangan                                                                         |
+| ------------------------- | ---------------------------------------------------------------------------------- |
+| `streamlit`               | Membangun antarmuka aplikasi klasifikasi estetika berbasis web                     |
+| `pandas`                  | Manipulasi dan analisis data tabular (CSV, DataFrame)                              |
+| `numpy`                   | Operasi numerik, array, dan vektor fitur gambar                                    |
+| `torch`                   | Framework utama untuk training model GCN/GAT                                       |
+| `torch_geometric`         | Ekstensi PyTorch untuk model berbasis graf seperti GCN dan GAT                     |
+| `tensorflow`              | Ekstraksi fitur citra menggunakan model CNN InceptionResNetV2                      |
+| `sklearn`                 | Normalisasi data fitur dan evaluasi model (StandardScaler, classification\_report) |
+| `networkx`                | Membangun struktur graf dari patch gambar                                          |
+| `joblib`                  | Menyimpan model PCA atau objek Python lainnya dalam format efisien                 |
+| `matplotlib`              | Visualisasi metrik performa model seperti confusion matrix                         |
+| `PIL`                     | Membaca dan memproses gambar input                                                 |
+| `json`                    | Memuat file fitur gambar dalam format JSON                                         |
+| `re`                      | Melakukan preprocessing teks dengan ekspresi reguler (jika diperlukan)             |
+| `os`                      | Navigasi file dan folder dataset                                                   |
+| `glob`                    | Membaca banyak file gambar dalam satu folder                                       |
+| `streamlit.components.v1` | Menyisipkan HTML kustom untuk visualisasi graf dan prediksi                        |
+| `IPython.display`         | Menampilkan HTML atau elemen interaktif di notebook (opsional)                     |
+
 
 ### Langkah-langkah  
 1. **Clone Repository**  
