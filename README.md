@@ -52,9 +52,9 @@ Embed video demo di bawah ini :
 
 ## 📚 Dokumentasi Tambahan
 
-- [![Dokumentasi API]](docs/api.md)
-- [![Diagram Arsitektur]](docs/architecture.png)
-- [![Struktur Basis Data]](docs/database_schema.sql)
+- [![Dataset Image]](https://drive.google.com/drive/folders/1CttrL0ZTSvhi050xBYORP_fMN2ddDKvh?usp=sharing)
+- [![Dataset All_Fitur_CSV]](https://drive.google.com/file/d/1fQ0JrFQrvTZOxW6nArVJDE8U_qsDIhrX/view?usp=sharing)
+- [![Dataset_All_Fitur_PT]](https://drive.google.com/file/d/1zZyOquMbmsu2xMeiFSXodm9yxcyWYHUc/view?usp=sharing)
 
 ---
 
@@ -71,5 +71,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: [faizfernan24@gmail.com]
+- Pembimbing Utama: [shintami@if.its.ac.id]
